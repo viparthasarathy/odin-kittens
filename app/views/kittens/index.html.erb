@@ -1,0 +1,5 @@
+<h1> Kitten Index </h1>
+
+<% @kittens.each do |kitten| %>
+  <p><%= kitten.name %> is <%= kitten.age %> years old with a cuteness rank of <%= kitten.cuteness %> and a softness rank of <%= kitten.softness %>. <%= link_to 'Click here to delete this kitten.', { action: :destroy, id: kitten.id }, method: :delete %> </p>
+<% end %>
