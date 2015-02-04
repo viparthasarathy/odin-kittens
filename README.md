@@ -1,28 +1,3 @@
-== README
+# Documentation
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This repository is part of [The Odin Project](http://www.theodinproject.com/). The purpose of this assignment is to obtain experience in building Rails APIs. More information can be found [here](http://www.theodinproject.com/ruby-on-rails/apis?ref=lc-pb). 
